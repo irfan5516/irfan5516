@@ -1,7 +1,7 @@
 - 👋 Hi, I’m IRFAN HUSSIN LONE    
-- 👀 I’m interested in Programing
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on .
+- 👀 I’m interested in COMPUTER PROGTRAMING 
+- 🌱 I’m currently Studying Machine learning
+- 💞️ I’m looking to collaborate on DATA SCIENCE 
 - 📫 How to reach me ...irfanhussain5516@GMAIL.COM
 
 <!---
